@@ -1,0 +1,10 @@
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.0\LiberacaoCredito.deps.json
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.0\LiberacaoCredito.runtimeconfig.json
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.0\LiberacaoCredito.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.0\LiberacaoCredito.dll
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\bin\Debug\netcoreapp2.0\LiberacaoCredito.pdb
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.0\LiberacaoCredito.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.0\LiberacaoCredito.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.0\LiberacaoCredito.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.0\LiberacaoCredito.dll
+C:\Users\Leandro\Desktop\LiberacaoCredito\LiberacaoCredito\LiberacaoCredito\obj\Debug\netcoreapp2.0\LiberacaoCredito.pdb
