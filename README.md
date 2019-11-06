@@ -1,4 +1,4 @@
-# LiberacaoCredito
+# Tecnologia / Arquitetura
 
 Tecnologias:
 •	ASP.NET Core Web API (API)
